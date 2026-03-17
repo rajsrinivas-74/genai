@@ -1,39 +1,37 @@
-############THis is a Video Prompt for Miniral Water Ad
-
 Create a cinematic multi-scene video with strong narrative continuity and consistent visual style.
 
 STYLE:
-Ultra-realistic, cinematic, 4K, natural lighting, soft shadows, shallow depth of field, film grain, warm color grading, smooth camera motion.
+Ultra-realistic, cinematic, 4K, natural lighting, soft shadows, shallow depth of field, film grain, warm desert tones, smooth camera motion.
 
 MAIN CHARACTER:
 A tired desert traveler wearing sun-worn clothes, riding a camel. Maintain consistent appearance across all scenes.
 
 SCENE STRUCTURE:
-Generate a sequence of connected scenes, each flowing naturally into the next. Ensure smooth transitions, same environment continuity, and coherent storytelling.
+Generate a sequence of connected scenes with seamless transitions and coherent storytelling.
 
 SCENE 1:
 A wide cinematic shot of a vast desert under harsh sunlight. Heat waves ripple across golden sand dunes. The traveler rides a camel slowly, exhausted. Camera: slow tracking shot.
 
 SCENE 2:
-Continuing from the previous scene, the traveler spots a distant oasis with palm trees. The camel moves faster toward it. Camera: slight zoom-in, maintaining direction and lighting continuity.
+Continuing from the previous scene, the traveler slows down and looks around — no oasis in sight, only endless desert. The mood feels dry and intense. Camera: medium shot with slight handheld realism.
 
 SCENE 3:
-Continuing seamlessly, the traveler reaches the oasis. The camel bends down and drinks water from a clear spring. Close-up of water ripples reflecting sunlight.
+Continuing seamlessly, the traveler stops, gets down from the camel, and kneels on the hot sand. He looks desperate and tired. Close-up of his hand hovering above the sand.
 
 SCENE 4:
-Continuing at the same location, the traveler kneels and dips his hand into the water. The water begins to glow subtly. Camera: close-up on hand and water interaction.
+Continuing at the same spot, the traveler presses his hand into the dry desert sand. The sand behaves realistically at first — grains shifting and compressing under pressure. Subtle shimmer begins beneath the surface. Camera: macro close-up.
 
 SCENE 5:
-The glowing water transforms into a chilled mineral water bottle labeled “NEER.” Condensation droplets visible. The traveler looks surprised. Camera: cinematic reveal shot.
+The sand around his hand begins to ripple unnaturally, like liquid beneath the surface. Fine grains lift and swirl upward. From within the sand, a chilled mineral water bottle labeled “NEER” slowly emerges, covered with condensation droplets. The transformation feels magical yet grounded. Camera: slow cinematic reveal.
 
 SCENE 6:
-Final hero shot — the bottle stands against the oasis background with soft sunlight, palm trees swaying. Clean product focus, premium advertising style.
+Final hero shot — the bottle stands upright on the desert sand with golden sunlight hitting it. The traveler looks at it in awe. Background softly blurred, premium product advertisement style.
 
 CONTINUITY RULES:
-- Maintain same character, camel, lighting direction, and environment
-- Ensure each scene clearly continues from the previous one
-- Avoid abrupt changes in style or perspective
-- Keep motion smooth and cinematic
+- Maintain same character, camel, lighting direction, and desert environment
+- Ensure smooth scene-to-scene progression
+- Keep sand physics realistic before the magical transition
+- Avoid sudden jumps or inconsistent visuals
 
 OUTPUT:
-A seamless multi-scene cinematic video with natural transitions and consistent storytelling.
+A seamless cinematic multi-scene video with realistic physics transitioning into a magical product reveal.
