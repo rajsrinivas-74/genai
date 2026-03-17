@@ -1,1 +1,39 @@
+############THis is a Video Prompt for Miniral Water Ad
 
+Create a cinematic multi-scene video with strong narrative continuity and consistent visual style.
+
+STYLE:
+Ultra-realistic, cinematic, 4K, natural lighting, soft shadows, shallow depth of field, film grain, warm color grading, smooth camera motion.
+
+MAIN CHARACTER:
+A tired desert traveler wearing sun-worn clothes, riding a camel. Maintain consistent appearance across all scenes.
+
+SCENE STRUCTURE:
+Generate a sequence of connected scenes, each flowing naturally into the next. Ensure smooth transitions, same environment continuity, and coherent storytelling.
+
+SCENE 1:
+A wide cinematic shot of a vast desert under harsh sunlight. Heat waves ripple across golden sand dunes. The traveler rides a camel slowly, exhausted. Camera: slow tracking shot.
+
+SCENE 2:
+Continuing from the previous scene, the traveler spots a distant oasis with palm trees. The camel moves faster toward it. Camera: slight zoom-in, maintaining direction and lighting continuity.
+
+SCENE 3:
+Continuing seamlessly, the traveler reaches the oasis. The camel bends down and drinks water from a clear spring. Close-up of water ripples reflecting sunlight.
+
+SCENE 4:
+Continuing at the same location, the traveler kneels and dips his hand into the water. The water begins to glow subtly. Camera: close-up on hand and water interaction.
+
+SCENE 5:
+The glowing water transforms into a chilled mineral water bottle labeled “NEER.” Condensation droplets visible. The traveler looks surprised. Camera: cinematic reveal shot.
+
+SCENE 6:
+Final hero shot — the bottle stands against the oasis background with soft sunlight, palm trees swaying. Clean product focus, premium advertising style.
+
+CONTINUITY RULES:
+- Maintain same character, camel, lighting direction, and environment
+- Ensure each scene clearly continues from the previous one
+- Avoid abrupt changes in style or perspective
+- Keep motion smooth and cinematic
+
+OUTPUT:
+A seamless multi-scene cinematic video with natural transitions and consistent storytelling.
